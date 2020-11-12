@@ -13,8 +13,8 @@ ACTION_ID_ON_POLL = 'on_poll'
 ACTION_ID_TEST = 'test_asset_connectivity'
 
 # Constants for error messages
-ERROR_CODE_MSG = "Error code unavailable"
-ERROR_MSG_UNAVAILABLE = "Error message unavailable. Please check the asset configuration and|or action parameters"
+ERR_CODE_MSG = "Error code unavailable"
+ERR_MSG_UNAVAILABLE = "Error message unavailable. Please check the asset configuration and|or action parameters"
 PARSE_ERR_MSG = "Unable to parse the error message. Please check the asset configuration and|or action parameters"
 TYPE_ERR_MSG = "Error occurred while connecting to the HackerOne Server. Please check the asset configuration and|or the action parameters"
 INT_VALIDATION_ERR_MSG = "Please provide a valid integer value in the {}"
